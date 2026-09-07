@@ -4,3 +4,4 @@ playwright-report/
 .env
 
 # docs/ хавтасны нотолгоо (trace.zip, видео) ЗОРИУДАА commit хийгдэнэ — энд бүү нэм
+!docs/playwright-report/
